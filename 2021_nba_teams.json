@@ -333,7 +333,7 @@
 "awayText": "CE1141",
 "awayMain": "FFFFFF",
 "awaySecondary": "000000",
-"logoURL": "https://github.com/igorfer9/GMGAMES"
+"logoURL": "https://raw.githubusercontent.com/igorfer9/GMGAMES/main/raptors.png"
 },
 {
 "city": "Utah",
@@ -357,6 +357,6 @@
 "awayText": "002B5C",
 "awayMain": "FFFFFF",
 "awaySecondary": "E31837",
-"logoURL": "https://github.com/igorfer9/GMGAMES"
+"logoURL": "https://raw.githubusercontent.com/igorfer9/GMGAMES/main/wizards.png"
 }
 ]
