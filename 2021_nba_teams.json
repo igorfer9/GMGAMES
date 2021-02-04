@@ -9,7 +9,7 @@
 "awayText": "E03A3E",
 "awayMain": "FFFFFF",
 "awaySecondary": "C1D32F",
-"logoURL": "https://github.com/igorfer9/GMGAMES"
+"logoURL": "https://raw.githubusercontent.com/igorfer9/GMGAMES/main/hawks.png"
 },
 {
 "city": "Boston",
@@ -21,7 +21,7 @@
 "awayText": "007A33",
 "awayMain": "FFFFFF",
 "awaySecondary": "BA9653",
-"logoURL": "https://github.com/igorfer9/GMGAMES"
+"logoURL": "https://raw.githubusercontent.com/igorfer9/GMGAMES/main/celtics.png"
 },
 {
 "city": "Brooklyn",
@@ -33,7 +33,7 @@
 "awayText": "000000",
 "awayMain": "FFFFFF",
 "awaySecondary": "000000",
-"logoURL": "https://github.com/igorfer9/GMGAMES"
+"logoURL": "https://raw.githubusercontent.com/igorfer9/GMGAMES/main/nets.png"
 },
 {
 "city": "Charlotte",
@@ -45,7 +45,7 @@
 "awayText": "1D1160",
 "awayMain": "FFFFFF",
 "awaySecondary": "00788C",
-"logoURL": "https://github.com/igorfer9/GMGAMES"
+"logoURL": "https://raw.githubusercontent.com/igorfer9/GMGAMES/main/hornets.png"
 },
 {
 "city": "Chicago",
@@ -57,7 +57,7 @@
 "awayText": "CE1141",
 "awayMain": "FFFFFF",
 "awaySecondary": "000000",
-"logoURL": "https://github.com/igorfer9/GMGAMES"
+"logoURL": "https://raw.githubusercontent.com/igorfer9/GMGAMES/main/bulls.png"
 },
 {
 "city": "Clevland",
@@ -69,7 +69,7 @@
 "awayText": "860038",
 "awayMain": "FFFFFF",
 "awaySecondary": "041E42",
-"logoURL": "https://github.com/igorfer9/GMGAMES"
+"logoURL": "https://raw.githubusercontent.com/igorfer9/GMGAMES/main/cavaliers.png"
 },
 {
 "city": "Dallas",
@@ -93,7 +93,7 @@
 "awayText": "0E2240",
 "awayMain": "FFFFFF",
 "awaySecondary": "FEC524",
-"logoURL": "https://github.com/igorfer9/GMGAMES"
+"logoURL": "https://raw.githubusercontent.com/igorfer9/GMGAMES/main/nuggets.png"
 },
 {
 "city": "Detroit",
@@ -105,7 +105,7 @@
 "awayText": "C8102E",
 "awayMain": "FFFFFF",
 "awaySecondary": "1D42BA",
-"logoURL": "https://github.com/igorfer9/GMGAMES"
+"logoURL": "https://raw.githubusercontent.com/igorfer9/GMGAMES/main/pistons.png"
 },
 {
 "city": "Golden State",
@@ -117,7 +117,7 @@
 "awayText": "1D42BA",
 "awayMain": "FFFFFF",
 "awaySecondary": "FFC72C",
-"logoURL": "https://github.com/igorfer9/GMGAMES"
+"logoURL": "https://raw.githubusercontent.com/igorfer9/GMGAMES/main/warriors.png"
 },
 {
 "city": "Houston",
@@ -129,7 +129,7 @@
 "awayText": "CE1141",
 "awayMain": "FFFFFF",
 "awaySecondary": "000000",
-"logoURL": "https://github.com/igorfer9/GMGAMES"
+"logoURL": "https://raw.githubusercontent.com/igorfer9/GMGAMES/main/rockets.png"
 },
 {
 "city": "Indiana",
@@ -141,7 +141,7 @@
 "awayText": "002D62",
 "awayMain": "FFFFFF",
 "awaySecondary": "FDBB30",
-"logoURL": "https://github.com/igorfer9/GMGAMES"
+"logoURL": "https://raw.githubusercontent.com/igorfer9/GMGAMES/main/pacers.png"
 },
 {
 "city": "Los Angeles",
@@ -153,7 +153,7 @@
 "awayText": "C8102E",
 "awayMain": "FFFFFF",
 "awaySecondary": "1D428A",
-"logoURL": "https://github.com/igorfer9/GMGAMES"
+"logoURL": "https://raw.githubusercontent.com/igorfer9/GMGAMES/main/clippers.png"
 },
 {
 "city": "Los Angeles",
@@ -165,7 +165,7 @@
 "awayText": "552583",
 "awayMain": "FFFFFF",
 "awaySecondary": "FDB927",
-"logoURL": "https://github.com/igorfer9/GMGAMES"
+"logoURL": "https://raw.githubusercontent.com/igorfer9/GMGAMES/main/lakers.png"
 },
 {
 "city": "Memphis",
@@ -177,7 +177,7 @@
 "awayText": "5D76A9",
 "awayMain": "FFFFFF",
 "awaySecondary": "12173F",
-"logoURL": "https://github.com/igorfer9/GMGAMES"
+"logoURL": "https://raw.githubusercontent.com/igorfer9/GMGAMES/main/grizzlies.png"
 },
 {
 "city": "Miami",
@@ -189,7 +189,7 @@
 "awayText": "98002E",
 "awayMain": "FFFFFF",
 "awaySecondary": "F9A01B",
-"logoURL": "https://github.com/igorfer9/GMGAMES"
+"logoURL": "https://raw.githubusercontent.com/igorfer9/GMGAMES/main/heat.gif"
 },
 {
 "city": "Milwaukee",
@@ -201,7 +201,7 @@
 "awayText": "00471B",
 "awayMain": "FFFFFF",
 "awaySecondary": "EEE1C6",
-"logoURL": "https://github.com/igorfer9/GMGAMES"
+"logoURL": "https://raw.githubusercontent.com/igorfer9/GMGAMES/main/bucks.png"
 },
 {
 "city": "Minnesota",
@@ -213,7 +213,7 @@
 "awayText": "0C2340",
 "awayMain": "FFFFFF",
 "awaySecondary": "236192",
-"logoURL": "https://github.com/igorfer9/GMGAMES"
+"logoURL": "https://raw.githubusercontent.com/igorfer9/GMGAMES/main/timberwolves.png"
 },
 {
 "city": "New Orleans",
@@ -225,7 +225,7 @@
 "awayText": "0C2340",
 "awayMain": "FFFFFF",
 "awaySecondary": "C8102E",
-"logoURL": "https://github.com/igorfer9/GMGAMES"
+"logoURL": "https://raw.githubusercontent.com/igorfer9/GMGAMES/main/pelicans.png"
 },
 {
 "city": "New York",
@@ -237,7 +237,7 @@
 "awayText": "006BB6",
 "awayMain": "FFFFFF",
 "awaySecondary": "F58426",
-"logoURL": "https://github.com/igorfer9/GMGAMES"
+"logoURL": "https://raw.githubusercontent.com/igorfer9/GMGAMES/main/knicks.gif"
 },
 {
 "city": "Okalahoma City",
@@ -249,7 +249,7 @@
 "awayText": "007AC1",
 "awayMain": "FFFFFF",
 "awaySecondary": "EF3B24",
-"logoURL": "https://github.com/igorfer9/GMGAMES"
+"logoURL": "https://raw.githubusercontent.com/igorfer9/GMGAMES/main/thunder.png"
 },
 {
 "city": "Orlando",
@@ -261,7 +261,7 @@
 "awayText": "0077C0",
 "awayMain": "FFFFFF",
 "awaySecondary": "C4CED4",
-"logoURL": "https://github.com/igorfer9/GMGAMES"
+"logoURL": "https://raw.githubusercontent.com/igorfer9/GMGAMES/main/magic.gif"
 },
 {
 "city": "Philadelphia",
@@ -273,7 +273,7 @@
 "awayText": "006BB6",
 "awayMain": "FFFFFF",
 "awaySecondary": "ED174C",
-"logoURL": "https://github.com/igorfer9/GMGAMES"
+"logoURL": "https://raw.githubusercontent.com/igorfer9/GMGAMES/main/76ers.png"
 },
 {
 "city": "Phoenix",
@@ -297,7 +297,7 @@
 "awayText": "E03A3E",
 "awayMain": "FFFFFF",
 "awaySecondary": "000000",
-"logoURL": "https://github.com/igorfer9/GMGAMES"
+"logoURL": "https://raw.githubusercontent.com/igorfer9/GMGAMES/main/blazers.png"
 },
 {
 "city": "Sacramento",
@@ -309,7 +309,7 @@
 "awayText": "5A2D81",
 "awayMain": "FFFFFF",
 "awaySecondary": "63727A",
-"logoURL": "https://github.com/igorfer9/GMGAMES"
+"logoURL": "https://raw.githubusercontent.com/igorfer9/GMGAMES/main/kings.png"
 },
 {
 "city": "San Antonio",
@@ -321,7 +321,7 @@
 "awayText": "C4CED4",
 "awayMain": "FFFFFF",
 "awaySecondary": "000000",
-"logoURL": "https://github.com/igorfer9/GMGAMES"
+"logoURL": "https://raw.githubusercontent.com/igorfer9/GMGAMES/main/spurs.png"
 },
 {
 "city": "Toronto",
@@ -345,7 +345,7 @@
 "awayText": "002B5C",
 "awayMain": "FFFFFF",
 "awaySecondary": "00471B",
-"logoURL": "https://github.com/igorfer9/GMGAMES"
+"logoURL": "https://raw.githubusercontent.com/igorfer9/GMGAMES/main/jazz.png"
 },
 {
 "city": "Washington",
