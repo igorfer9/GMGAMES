@@ -63,12 +63,12 @@
 "city": "Chicago",
 "mascot": "Bulls",
 "short": "CHI",
-"homeText": "FFFFFF",
-"homeMain": "CE1141",
-"homeSecondary": "000000",
+"homeText": "CE1141",
+"homeMain": "FFFFFF",
+"homeSecondary": "CE1141",
 "awayText": "CE1141",
-"awayMain": "FFFFFF",
-"awaySecondary": "000000",
+"awayMain": "000000",
+"awaySecondary": "CE1141",
 "logoURL": "https://dl.dropbox.com/s/zv2ppdd103v740h/bulls.png"
 },
 {
