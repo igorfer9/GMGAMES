@@ -52,8 +52,8 @@
 "mascot": "Raptors",
 "short": "TOR",
 "homeText": "FFFFFF",
-"homeMain": "CE1141",
-"homeSecondary": "000000",
+"homeMain": "000000",
+"homeSecondary": "CE1141",
 "awayText": "CE1141",
 "awayMain": "FFFFFF",
 "awaySecondary": "000000",
@@ -72,7 +72,7 @@
 "logoURL": "https://dl.dropbox.com/s/zv2ppdd103v740h/bulls.png"
 },
 {
-"city": "Clevland",
+"city": "Cleveland",
 "mascot": "Cavaliers",
 "short": "CLE",
 "homeText": "FFFFFF",
